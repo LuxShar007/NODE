@@ -1,0 +1,10 @@
+# Dependencies
+/node_modules
+/client/node_modules
+
+# Production
+/client/build
+
+# Miscellaneous
+.env
+.DS_Store
